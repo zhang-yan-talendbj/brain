@@ -1,0 +1,32 @@
+<Brain>
+  <Property name="fontSize" value="21"/>
+  <Property name="gravity" value="2.777777777777778"/>
+  <Thought id="2,1" xPos="511.18825329678305" yPos="216.5247050997451">
+    <Property name="activated" value="true"/>
+    <Property name="fixed" value="false"/>
+  </Thought>
+  <Thought id="2,67" xPos="455.5668695195212" yPos="266.07702459999183">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="false"/>
+  </Thought>
+  <Thought id="2,2" xPos="455.5668695195212" yPos="298.59762085284416">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="false"/>
+  </Thought>
+  <Thought id="2,4" xPos="453.60275741967894" yPos="325.08545836115843">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="false"/>
+  </Thought>
+  <Thought id="2,30" xPos="566.7735373396879" yPos="266.3646668482804">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="false"/>
+  </Thought>
+  <Thought id="2,28" xPos="566.7735373396879" yPos="300.1317128437167">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="false"/>
+  </Thought>
+  <Thought id="2,12" xPos="568.1779924740384" yPos="325.100683368612">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="false"/>
+  </Thought>
+</Brain>
