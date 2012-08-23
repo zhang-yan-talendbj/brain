@@ -8,7 +8,7 @@
   <OwnerID>0</OwnerID>
   <HomeID>1</HomeID>
   <creationDateTime>1332077616562</creationDateTime>
-  <modificationDateTime>1344689843203</modificationDateTime>
+  <modificationDateTime>1345616110301</modificationDateTime>
   <xmlPrefs>&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot; standalone=&amp;quot;no&amp;quot;?&amp;gt;&#13;
 &amp;lt;BrainPreferences&amp;gt;&#13;
   &amp;lt;BrainOptions&amp;gt;&#13;
@@ -16,7 +16,7 @@
     &amp;lt;thoughtBackgroundColors&amp;gt;true&amp;lt;/thoughtBackgroundColors&amp;gt;&#13;
     &amp;lt;BrainContextString Number=&amp;quot;0&amp;quot;/&amp;gt;&#13;
     &amp;lt;BrainContextString Number=&amp;quot;10000&amp;quot;/&amp;gt;&#13;
-    &amp;lt;BrainContextString Number=&amp;quot;3&amp;quot;&amp;gt;SansSerif&amp;lt;/BrainContextString&amp;gt;&#13;
+    &amp;lt;BrainContextString Number=&amp;quot;3&amp;quot;&amp;gt;Microsoft YaHei&amp;lt;/BrainContextString&amp;gt;&#13;
   &amp;lt;/BrainOptions&amp;gt;&#13;
   &amp;lt;BrainColors&amp;gt;&#13;
     &amp;lt;BrainContextColor Format=&amp;quot;RGB&amp;quot; Number=&amp;quot;0&amp;quot;&amp;gt;ffffffff&amp;lt;/BrainContextColor&amp;gt;&#13;
