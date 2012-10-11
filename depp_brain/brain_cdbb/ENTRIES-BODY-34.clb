@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 7.6.2.10" />
+<meta name="generator" content="TheBrain 7.0.3.2" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: "Microsoft YaHei";  font-size: large;  background: #6fe971;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<p><span style=" font-family: 'Microsoft YaHei';">静态变量是被泛型类的所有实例所共享的.对于声明为Myclass&#60;T&#62;的类,访问其中的静态变量 的方法仍然是Myclass.myStaticVar.不管是通过new MyClass&#60;String&#62;还是new MyClass&#60;Integer&#62;创建的对象，都是共享一个静态变量。</span></p>
+</body>
+</html>
